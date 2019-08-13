@@ -9,4 +9,4 @@ Otro criterio es un buen ratio entre start-ups y grandes compañias. Y todo ello
 
 ¿Donde esta esa nueva oficina? 
 
-
+(Se usan los datos de companies.json usados en el lab de mongo)
